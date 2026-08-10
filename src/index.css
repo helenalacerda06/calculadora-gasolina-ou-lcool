@@ -2,10 +2,11 @@
   margin: 0 auto;
   font-family: sans-serif;
   box-sizing: border-box;
+  background-color: #22272e;
 }
 
 bory{
-  background-color: #22272e;
+  background-color: #c6d1e0;
   height: 100vh;
   display: flex;
   justify-content: center;
