@@ -45,3 +45,37 @@
   font-weight: bold;
 }
 
+.result{
+  background-color: #00b63e;
+  width: 100%;
+  max-width: 420px;
+  padding: 20px 28px;
+  border-radius: 8px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  margin: 24px 0;
+  transition: 0.8s;
+}
+
+.result:hover{
+  transform: scale(1.1);
+}
+
+.result-title{
+  font-weight: bold;
+  font-size: 24px;
+  color: #fff;
+  margin-bottom: 16px;
+  background-color: #00b63e;
+}
+
+.result span{
+  color: #fff;
+  margin-bottom: 8px;
+}
+
+.span{
+  background-color: #00b63e;
+}
+
