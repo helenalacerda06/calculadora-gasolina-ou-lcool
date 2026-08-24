@@ -9,12 +9,14 @@
 
 .logo{
   max-width: 227px;
+  border-radius: 150px;
+  margin: 2rem;
 }
 
 .title{
   color:#fff;
   text-align: center;
-  margin:24px 0;
+  margin:10px 0;
 }
 
 .form label{
@@ -72,7 +74,7 @@
 
 .result span{
   color: #fff;
-  margin-bottom: 8px;
+  margin-bottom: 10px;
 }
 
 .span{
